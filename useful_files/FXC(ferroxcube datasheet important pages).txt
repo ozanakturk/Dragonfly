@@ -1,0 +1,2 @@
+93 -> material properties (3C94)
+267 -> core properties (E41/17...)
