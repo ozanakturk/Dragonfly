@@ -14,21 +14,21 @@ R_23 = 66.7808*10^(-6);
 
 %Conditions
 a=1;
-p=0;
+p=1;
 while a~=0
 V=12;
-Imax=6.9+p*0.1;
+Imax=p*0.1;
 D=0.58;
 f=50e3;
 load=0.25;
 delta_Ilm=load*5.67*2;
 Lm = 18*0.47/(delta_Ilm*f);
 Npri_old = ceil(sqrt(Lm/A_l(1)));
-MMF = round(Npri_old*Imax);
+MMF = round(Npri_old*delta_Ilm/2);
 n=10;
 while n>1
 Npri_new = ceil(sqrt(Lm/A_l(MMF)));
-MMF = round(Npri_new*Imax);
+MMF = round(Npri_new*delta_Ilm/2);
 if Npri_new == Npri_old
     Npri = Npri_old;
     n=1;
@@ -37,6 +37,7 @@ else
 end
 
 end
+MMF = round(Npri_new*Imax);
 H=MMF/(98.4e-3);
 u=A_l(MMF)*(98.4e-3)/(237e-6);
 B = u*H;
@@ -70,3 +71,5 @@ p=p+1;
 fill= (((num_cable_pri*Npri+num_cable_sec*Npri*3)*awg_23)/276)*100;
 
 end
+
+R_cu = V^2/core_loss
