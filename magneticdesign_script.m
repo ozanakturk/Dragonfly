@@ -2,12 +2,12 @@ Vin = 18; % 12-18 V
 Vout = 48; % V, fixed
 Pout = 48; % W, fixed
 n = 3; % N1:N2, 
-fs = 50e3; % switching frequency
+fs = 40e3; % switching frequency
 Perm = [2300 2300 1500 90 90 60]; % relative permittivity, same order with the excel sheet on github
 AL = 1e-9*[4100 5200 4700 281 146 300]; % H/turn^2, same order with the excel sheet on github
 Aw = 1e-6*[144.3 219.04 345.95 276 151 537]; % m^2
 Le = 1e-3*[77 97 124 98.4 69.4 147]; % m
-Ae = 1e-6*[149 233 353 237 84 540]; % m^2, crossection of the core
+Ae = 1e-6*[149 233 353 237 84 540 540]; % m^2, crossection of the core
 mu0 = 4*pi*10^-7; % permittivity of the air
 
 Iout = Pout/Vout;
