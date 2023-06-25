@@ -1,0 +1,27 @@
+Circuit: * C:\Users\alman\Desktop\ltspice\aahmetcan\464_proje_dizili.asc
+
+Per .tran options, skipping operating point for transient analysis.
+
+pin: AVG(-v(vin)*i(v1))=41.7092 FROM 0 TO 0.005
+pout: AVG(v(vo)*i(r1))=29.0252 FROM 0 TO 0.005
+eff: pout/pin=0.695893
+
+
+Date: Thu Jun 08 23:23:50 2023
+Total elapsed time: 5.207 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 584491
+traniter = 584491
+tranpoints = 155155
+accept = 113945
+rejected = 41210
+matrix size = 63
+fillins = 47
+solver = Normal
+Thread vector: 4.6/4.0[2] 2.6/2.0[2] 0.5/1.4[1] 0.2/0.9[1]  2592/500
+Matrix Compiler1: 5.56 KB object code size  1.4/0.5/[0.2]
+Matrix Compiler2: 5.49 KB object code size  1.5/0.5/[0.2]
+

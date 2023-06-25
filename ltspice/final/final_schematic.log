@@ -1,0 +1,17 @@
+Circuit: * C:\Users\alman\Desktop\ltspice_090623\final\final_schematic.asc
+
+WARNING: Node NC_02 is floating.
+WARNING: Node NC_04 is floating.
+WARNING: Node NC_05 is floating.
+WARNING: Node NC_06 is floating.
+WARNING: Node NC_07 is floating.
+
+WARNING: Less than two connections to node NC_01.  This node is used by R13.
+WARNING: Less than two connections to node NC_02.  This node is used by R13.
+WARNING: Less than two connections to node NC_04.  This node is used by C1.
+WARNING: Less than two connections to node NC_05.  This node is used by C1.
+WARNING: Less than two connections to node NC_06.  This node is used by R4.
+WARNING: Less than two connections to node NC_07.  This node is used by C§1Y.
+Per .tran options, skipping operating point for transient analysis.
+Heightened Def Con from 0.00142495 to 0.00142495
+Heightened Def Con from 0.00170585 

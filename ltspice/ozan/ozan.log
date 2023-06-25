@@ -1,0 +1,141 @@
+Circuit: * C:\Users\alman\Desktop\ltspice_090623\ozan\ozan.asc
+
+Per .tran options, skipping operating point for transient analysis.
+Heightened Def Con from 0.000257002 to 0.000257004
+Heightened Def Con from 0.000258075 to 0.000258078
+Heightened Def Con from 0.000260062 to 0.000260063
+Heightened Def Con from 0.000261866 to 0.000261866
+Heightened Def Con from 0.000265168 to 0.000265171
+Heightened Def Con from 0.000269112 to 0.000269115
+Heightened Def Con from 0.000269117 to 0.00026912
+Heightened Def Con from 0.000269297 to 0.000269299
+Heightened Def Con from 0.000269306 to 0.000269309
+Heightened Def Con from 0.000270069 to 0.000270069
+Heightened Def Con from 0.000270328 to 0.000270331
+Heightened Def Con from 0.000271178 to 0.00027118
+Heightened Def Con from 0.000271217 to 0.000271217
+Heightened Def Con from 0.000272191 to 0.000272192
+Heightened Def Con from 0.000273597 to 0.0002736
+Heightened Def Con from 0.000274146 to 0.000274147
+Heightened Def Con from 0.000275143 to 0.000275145
+Heightened Def Con from 0.000276335 to 0.000276337
+Heightened Def Con from 0.000276522 to 0.000276524
+Heightened Def Con from 0.000276814 to 0.000276817
+Heightened Def Con from 0.000277243 to 0.000277245
+Heightened Def Con from 0.000277289 to 0.00027729
+Heightened Def Con from 0.000277573 to 0.000277576
+Heightened Def Con from 0.000277845 to 0.000277845
+Heightened Def Con from 0.000279019 to 0.000279022
+Heightened Def Con from 0.000279255 to 0.000279258
+Heightened Def Con from 0.000279344 to 0.000279344
+Heightened Def Con from 0.000279393 to 0.000279393
+Heightened Def Con from 0.000280039 to 0.000280042
+Heightened Def Con from 0.000280244 to 0.000280245
+Heightened Def Con from 0.000280902 to 0.000280902
+Heightened Def Con from 0.000281627 to 0.000281629
+Heightened Def Con from 0.000281669 to 0.000281672
+Heightened Def Con from 0.00028204 to 0.00028204
+Heightened Def Con from 0.000282041 to 0.000282044
+Heightened Def Con from 0.000282081 to 0.000282084
+Heightened Def Con from 0.000282084 to 0.000282084
+Heightened Def Con from 0.000282361 to 0.000282361
+Heightened Def Con from 0.000282383 to 0.000282384
+Heightened Def Con from 0.000283121 to 0.000283124
+Heightened Def Con from 0.000283878 to 0.000283881
+Heightened Def Con from 0.000283948 to 0.000283951
+Heightened Def Con from 0.000284528 to 0.000284528
+Heightened Def Con from 0.000286177 to 0.00028618
+Heightened Def Con from 0.000286559 to 0.000286559
+Heightened Def Con from 0.000287473 to 0.000287476
+Heightened Def Con from 0.000291124 to 0.000291124
+Heightened Def Con from 0.00029116 to 0.000291163
+Heightened Def Con from 0.000291301 to 0.000291302
+Heightened Def Con from 0.000292181 to 0.000292184
+Heightened Def Con from 0.000293382 to 0.000293385
+Heightened Def Con from 0.000293787 to 0.00029379
+Heightened Def Con from 0.000294695 to 0.000294696
+Heightened Def Con from 0.00029554 to 0.00029554
+Heightened Def Con from 0.000295792 to 0.000295795
+Heightened Def Con from 0.000295851 to 0.000295854
+Heightened Def Con from 0.000296538 to 0.000296545
+Heightened Def Con from 0.000296651 to 0.000296654
+Heightened Def Con from 0.000296805 to 0.000296806
+Heightened Def Con from 0.000296966 to 0.000296968
+Heightened Def Con from 0.000296982 to 0.000296983
+Heightened Def Con from 0.000296984 to 0.000296985
+Heightened Def Con from 0.000297032 to 0.000297035
+Heightened Def Con from 0.000297226 to 0.000297229
+Heightened Def Con from 0.000297621 to 0.000297623
+Heightened Def Con from 0.000297972 to 0.000297974
+Heightened Def Con from 0.000297986 to 0.000297989
+Heightened Def Con from 0.000298517 to 0.00029852
+Heightened Def Con from 0.000299031 to 0.000299034
+Heightened Def Con from 0.000299886 to 0.000299889
+Heightened Def Con from 0.000303417 to 0.00030342
+Heightened Def Con from 0.000304375 to 0.000304376
+Heightened Def Con from 0.000304731 to 0.000304732
+Heightened Def Con from 0.000307774 to 0.000307774
+Heightened Def Con from 0.000307889 to 0.000307891
+Heightened Def Con from 0.000307906 to 0.000307909
+Heightened Def Con from 0.000308126 to 0.000308129
+Heightened Def Con from 0.000309606 to 0.000309609
+Heightened Def Con from 0.000309725 to 0.000309726
+Heightened Def Con from 0.000310118 to 0.000310119
+Heightened Def Con from 0.000310143 to 0.000310146
+Heightened Def Con from 0.000310715 to 0.000310716
+Heightened Def Con from 0.000310819 to 0.000310821
+Heightened Def Con from 0.000311096 to 0.000311096
+Heightened Def Con from 0.000311205 to 0.000311208
+Heightened Def Con from 0.000311509 to 0.000311511
+Heightened Def Con from 0.000311827 to 0.00031183
+Heightened Def Con from 0.00031185 to 0.000311852
+Heightened Def Con from 0.000312338 to 0.000312341
+Heightened Def Con from 0.000312826 to 0.000312829
+Heightened Def Con from 0.000313081 to 0.000313082
+Heightened Def Con from 0.000313913 to 0.000313916
+Heightened Def Con from 0.000315341 to 0.000315344
+Heightened Def Con from 0.000315398 to 0.000315399
+Heightened Def Con from 0.000315425 to 0.000315428
+Heightened Def Con from 0.000315525 to 0.000315526
+Heightened Def Con from 0.000315647 to 0.00031565
+Heightened Def Con from 0.000315914 to 0.000315914
+Heightened Def Con from 0.000316321 to 0.000316324
+Heightened Def Con from 0.000316755 to 0.000316757
+Heightened Def Con from 0.000316989 to 0.000316989
+Heightened Def Con from 0.00031747 to 0.000317471
+Heightened Def Con from 0.000317725 to 0.000317726
+Heightened Def Con from 0.00031862 to 0.000318623
+Heightened Def Con from 0.000319738 to 0.000319741
+Heightened Def Con from 0.000319958 to 0.00031996
+Heightened Def Con from 0.000320604 to 0.000320607
+Heightened Def Con from 0.000323237 to 0.000323238
+Heightened Def Con from 0.000323756 to 0.000323759
+Heightened Def Con from 0.000325127 to 0.000325128
+Heightened Def Con from 0.000327089 to 0.000327092
+Heightened Def Con from 0.000327528 to 0.00032753
+Heightened Def Con from 0.000328847 to 0.000328849
+Heightened Def Con from 0.000328963 to 0.000328965
+
+pin: AVG(-v(vin)*i(v1))=2.65472 FROM 0 TO 0.025
+pout: AVG(v(vo)*i(r1))=2.1508 FROM 0 TO 0.025
+eff: pout/pin=0.810178
+
+
+Date: Mon Jun 12 21:31:06 2023
+Total elapsed time: 128.466 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 12788711
+traniter = 12788711
+tranpoints = 3611377
+accept = 2597240
+rejected = 1014251
+matrix size = 61
+fillins = 47
+solver = Normal
+Thread vector: 5.2/4.3[2] 2.2/2.4[1] 0.6/1.1[1] 0.2/1.2[1]  2592/500
+Matrix Compiler1: 5.38 KB object code size  0.9/0.6/[0.3]
+Matrix Compiler2: 5.32 KB object code size  0.4/0.6/[0.3]
+
